@@ -101,5 +101,11 @@ p{
   #about{
     margin-top: 300px;
   }
+  
+  .container .projects {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
  
