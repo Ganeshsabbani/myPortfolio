@@ -96,10 +96,9 @@ p{
   padding-top: 0px;
 }
 
-@media(max-width:1000px){
-  /* .img-fluid{
- 
-  } */
+@media(max-width:500px){
+
+
   #about{
     margin-top: 300px;
   }
